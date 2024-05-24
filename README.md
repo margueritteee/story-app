@@ -1,16 +1,7 @@
-# destini
+![Screenshot 2024-05-24 131622](https://github.com/margueritteee/story-app/assets/121063816/51289ee9-f6a1-4db8-b12a-826f927bd6c0)
 
-A new Flutter project.
 
-## Getting Started
+![Screenshot 2024-05-24 131950](https://github.com/margueritteee/story-app/assets/121063816/3045e0cd-dd21-48d7-946e-d778e91c9f42)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-05-24 132005](https://github.com/margueritteee/story-app/assets/121063816/765e2f2d-3708-44cf-863d-26a297f67b93)
